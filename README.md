@@ -1,7 +1,7 @@
 # Port-Schedule
 This is a simple Python application that reads a csv and moves it to google calender
 
-The csv contains the action, Length of time it will take, Start time, and End time from each action
+The csv contains the Action, Length of time it will take, Start time, and End time from each action
 
 It is edited as follows in a spreadsheet editor and is exported as a csv
 ```
