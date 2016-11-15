@@ -13,4 +13,4 @@ Break	   00:25	       08:30 AM  08:55 AM
 ```
 
 
-From these it appends the action to hte users google calendar
+From these lines it appends the action to the user's google calendar
