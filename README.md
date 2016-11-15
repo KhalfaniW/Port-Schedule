@@ -7,4 +7,4 @@ The csv contains
   Start time and,
   End time
     
-From these it appends the action to hte users google calendar
+From these values it appends the action to hte users google calendar
