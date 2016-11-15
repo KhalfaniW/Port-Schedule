@@ -8,7 +8,7 @@ It is edited as follows in a spreadsheet editor and is exported as a csv
 Action	 Length: hours Start	   End
 Start	   01:00	       07:00 AM	 08:00 AM
 Break	   00:07	       08:00 AM	 08:07 AM
-Eat/Go	 01:00	       08:07 AM	 08:30 AM
+Eat/Go 	   01:00	       08:07 AM	 08:30 AM
 Break	   00:25	       08:30 AM  08:55 AM
 ```
 
