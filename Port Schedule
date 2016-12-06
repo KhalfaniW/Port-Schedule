@@ -4,10 +4,9 @@ from quickstart import get_service
 import os
 tomorrow=str(datetime.datetime.today()+datetime.timedelta(days=1)).split(" ")[0]
 service=get_service()
-#TODO add update feature
-#TODO debug Delete function 
+current_directory=os.path.dirname(os.path.realpath(__file__))
 def get_tasks():
-    tasks= open('/home/khalfani/Desktop/Schedule.csv').readlines()
+    tasks= open(current_directory+'/Schedule.csv').readlines()
     x=tasks[2].split(",")[2]
     print(tasks[2],x,'"%s"' %x,x=="")
     Break=tasks[0].split(",")[-1]
