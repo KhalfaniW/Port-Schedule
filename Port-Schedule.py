@@ -90,6 +90,8 @@ def get_schedule_calendar_id():
         return f.read()
     
 if __name__ == "__main__":
-    get_tasks()
     if not os.path.exists('.ScheduleId'):
+        print("creating calendar")
         create_calendar()
+    get_tasks()
+    
