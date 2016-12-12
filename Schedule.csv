@@ -1,0 +1,12 @@
+Action,Length:hours,Start,End
+Something 1,00:25,11:15 AM,11:40 AM
+Something 2,00:25,11:40 AM,12:05 PM
+Something 3,00:05,12:05 PM,12:10 PM
+Something 4,00:25,12:10 PM,12:35 PM
+Something 5,00:15,12:35 PM,12:50 PM
+Something 6,00:25,12:50 PM,01:15 PM
+Break,01:05,01:15 PM,02:20 PM
+Study ,00:25,02:20 PM,02:45 PM
+Break,00:05,02:45 PM,02:50 PM
+Study ,00:25,02:20 PM,02:45 PM
+Break,00:05,02:45 PM,02:50 PM
