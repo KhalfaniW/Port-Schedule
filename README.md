@@ -15,5 +15,5 @@ Break	   00:25	       08:30 AM  08:55 AM
 
 From these lines it appends the action to the user's google calendar
 
-Depends on httplib2, apiclient and
+Depends on python httplib2, apiclient and
 run ``` sudo pip install --upgrade google-api-python-client ```
